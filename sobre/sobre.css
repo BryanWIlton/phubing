@@ -1,0 +1,51 @@
+* {
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-color: #323232;
+}
+
+h1 {
+    font-size: 3.5rem;
+}
+
+h2 {
+    font-size: 3rem;
+}
+
+p {
+    font-size: 2.5rem;
+    line-height: 190%;
+}
+
+h4 {
+    position: absolute;
+    top: 1800px;
+    left: 80%;
+}
+
+#site {
+    position: absolute;
+    top: 1820px;
+    left: 85%;
+}
+
+#pi {
+    position: absolute;
+    top: 1820px;
+    left: 0px;
+    color: black;
+    display: block;
+    width: 200px;
+    height: 50px;
+    text-decoration: none;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+#pi:hover {
+    background-color: black;
+    color: white;
+}

@@ -1,0 +1,25 @@
+body {
+    background-image: radial-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(https://media.gazetadopovo.com.br/viver-bem/2017/07/phubbing-celular-encontro-9f0d20b0.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: white;
+    text-align: right;
+}
+
+h1 {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+button {
+    color: white;
+    background-color: red;
+    padding: 15px 15px;
+    border-radius: 10px;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+}
+

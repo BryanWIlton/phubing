@@ -1,0 +1,42 @@
+* {
+    text-align: center;
+}
+body {
+    background-color: #323232;
+}
+
+h1 {
+    font-style: italic;
+    color: white;
+}
+
+li {
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+li:hover {
+    background-color: black;
+    color: white;
+}
+
+a {
+    color: black;
+}
+
+#pi {
+    position: absolute;
+    top: 90%;
+    height: 70px;
+    left: 0px;
+    color: black;
+}
+
+#pi:hover {
+    background-color: black;
+    color: white;
+}
