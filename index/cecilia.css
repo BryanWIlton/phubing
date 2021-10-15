@@ -14,3 +14,9 @@ li {
     font-size: 20px;
     position: relative;
 }
+
+.click {
+    position: absolute;
+    top: 93%;
+    font-size: 20px;
+}
